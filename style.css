@@ -1,0 +1,55 @@
+h1 {
+  border: 1pxq solid #000;
+}
+
+button {
+  height: 45px;
+  width: 60px;
+  background: #43877B;
+  color: #041E37;
+  font-size: 23px;;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+  transition: .2s;
+}
+
+div {
+  font-size: 50px;
+
+}
+
+#problem {
+  display: inline-block;
+}
+
+.myproblem {
+  display: inline;
+}
+.container {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+#next {
+  width: 290px;
+  margin: 20px auto;
+  border: thin solid black;
+  background-color: #8ca0b2;
+  border-radius: 10px;
+}
+#next:hover {
+  color: #9699BB;
+  background-color: #0d5146;
+  transition: .5s;
+}
+
+body {
+  background-color: #86afa8;
+  color: #041E37;
+}
